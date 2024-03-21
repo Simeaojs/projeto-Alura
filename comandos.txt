@@ -1,0 +1,3 @@
+Subir todos os arquivos para o cluster 
+
+kubectl apply -f db-configmap.yaml,portal-configmap.yaml,sistema-configmap.yaml,svc-db-noticias.yaml,svc-sistema-noticias.yaml,db-noticias.yaml,portal-noticias.yaml,sistema-noticias.yaml,svc-portal-noticias.yaml
